@@ -1,6 +1,25 @@
 [
   {
     "id": "golang-backend-cloud-hub-reddit-20260914-1",
+    "title": "r/grpc RPC Protocols",
+    "platform": "Reddit",
+    "category": "gRPC & Protocol Buffers",
+    "memberCount": "14,000+ members",
+    "description": "High-efficiency protobuf serialization, bi-directional streaming, and inter-service latency reduction.",
+    "joinUrl": "https://www.reddit.com/r/grpc/",
+    "tags": [
+      "grpc",
+      "protobuf",
+      "networking",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-14"
+  },
+  {
+    "id": "golang-backend-cloud-hub-reddit-20260914-1",
     "title": "r/apachekafka Event Streaming",
     "platform": "Reddit",
     "category": "Event Streaming",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
