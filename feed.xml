@@ -4,10 +4,17 @@
     <title>Golang Cloud Backend Hub</title>
     <link>https://jibranpcccc.github.io/golang-backend-cloud-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 06:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:17:50 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/golang-backend-cloud-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                        <item>
+                            <item>
+      <title>📅 Today's Fresh Pick: r/distributedsystems Consensus (Reddit)</title>
+      <link>https://www.reddit.com/r/distributedsystems/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-reddit-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:17:50 GMT</pubDate>
+      <description>Newly verified community added to Golang Cloud Backend Hub: Raft consensus, Paxos, distributed lock managers, eventual consistency, and network partition resilience.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/backend Systems Engineering (Reddit)</title>
       <link>https://www.reddit.com/r/backend/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-reddit-20260915-1-2026-09-15</guid>

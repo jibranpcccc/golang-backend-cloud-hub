@@ -1,5 +1,24 @@
 [
   {
+    "id": "golang-backend-cloud-hub-reddit-20260918-1",
+    "title": "r/distributedsystems Consensus",
+    "platform": "Reddit",
+    "category": "Distributed Systems",
+    "memberCount": "32,000+ members",
+    "description": "Raft consensus, Paxos, distributed lock managers, eventual consistency, and network partition resilience.",
+    "joinUrl": "https://www.reddit.com/r/distributedsystems/",
+    "tags": [
+      "distributed",
+      "consensus",
+      "raft",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-18"
+  },
+  {
     "id": "golang-backend-cloud-hub-reddit-20260915-1",
     "title": "r/backend Systems Engineering",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-15"
   },
   {
