@@ -1,5 +1,24 @@
 [
   {
+    "id": "golang-backend-cloud-hub-reddit-20260920-1",
+    "title": "r/linux Kernel & Server OS",
+    "platform": "Reddit",
+    "category": "Linux Operating Systems",
+    "memberCount": "850,000+ members",
+    "description": "Systemd service daemons, epoll I/O multiplexing, and memory cgroups for high-performance server apps.",
+    "joinUrl": "https://www.reddit.com/r/linux/",
+    "tags": [
+      "linux",
+      "kernel",
+      "server",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-20"
+  },
+  {
     "id": "golang-backend-cloud-hub-reddit-20260919-1",
     "title": "r/sysadmin Enterprise Infrastructure",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-19"
   },
   {
