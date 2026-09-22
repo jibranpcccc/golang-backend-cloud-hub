@@ -1,5 +1,23 @@
 [
   {
+    "id": "golang-backend-cloud-hub-discord-20260922-1",
+    "title": "Gophers Global Discord",
+    "platform": "Discord",
+    "category": "Go Engineering",
+    "memberCount": "58,000+ members",
+    "description": "The largest active Discord server for Go engineers, featuring channels for generics, tooling, and concurrency.",
+    "joinUrl": "https://discord.gg/gophers",
+    "tags": [
+      "golang",
+      "gophers",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-22"
+  },
+  {
     "id": "golang-backend-cloud-hub-reddit-20260921-1",
     "title": "r/cloudnative CNCF Landscape",
     "platform": "Reddit",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-21"
   },
   {
