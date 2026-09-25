@@ -1,5 +1,23 @@
 [
   {
+    "id": "golang-backend-cloud-hub-discord-20260925-1",
+    "title": "Cloud Native Computing Discord",
+    "platform": "Discord",
+    "category": "CNCF Open Source",
+    "memberCount": "54,000+ members",
+    "description": "Official open-source community for CNCF projects including Kubernetes, Envoy, and Helm.",
+    "joinUrl": "https://discord.gg/cncf",
+    "tags": [
+      "cncf",
+      "cloudnative",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-25"
+  },
+  {
     "id": "golang-backend-cloud-hub-discord-20260924-1",
     "title": "Confluent Kafka Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-24"
   },
   {
