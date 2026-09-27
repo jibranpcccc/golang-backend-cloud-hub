@@ -1,5 +1,23 @@
 [
   {
+    "id": "golang-backend-cloud-hub-telegram-20260927-1",
+    "title": "Go Developers Telegram",
+    "platform": "Telegram",
+    "category": "Go Ecosystem",
+    "memberCount": "48,000+ members",
+    "description": "Daily Go news, open-source library releases, job postings, and release candidate testing notes.",
+    "joinUrl": "https://t.me/golang",
+    "tags": [
+      "golang",
+      "news",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-27"
+  },
+  {
     "id": "golang-backend-cloud-hub-discord-20260925-1",
     "title": "Cloud Native Computing Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-25"
   },
   {
