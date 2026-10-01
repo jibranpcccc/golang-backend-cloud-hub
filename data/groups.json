@@ -1,5 +1,23 @@
 [
   {
+    "id": "golang-backend-cloud-hub-telegram-20261001-1",
+    "title": "DevOps Weekly Broadcast",
+    "platform": "Telegram",
+    "category": "DevOps News",
+    "memberCount": "55,000+ members",
+    "description": "Curated telemetry, infrastructure-as-code snippets, and site reliability incident summaries.",
+    "joinUrl": "https://t.me/devops",
+    "tags": [
+      "devops",
+      "sre",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-01"
+  },
+  {
     "id": "golang-backend-cloud-hub-telegram-20260930-1",
     "title": "Kubernetes Practitioners Telegram",
     "platform": "Telegram",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-30"
   },
   {
