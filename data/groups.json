@@ -1,5 +1,23 @@
 [
   {
+    "id": "golang-backend-cloud-hub-github-20261005-1",
+    "title": "Official Go GitHub Repository",
+    "platform": "GitHub",
+    "category": "Go Source Code",
+    "memberCount": "125,000+ stars",
+    "description": "The official repository for the Go programming language, tracking language proposals, runtime issues, and PRs.",
+    "joinUrl": "https://github.com/golang/go",
+    "tags": [
+      "golang",
+      "github",
+      "source"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-05"
+  },
+  {
     "id": "golang-backend-cloud-hub-forum-20261003-1",
     "title": "CNCF Community Platform",
     "platform": "Forum",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-03"
   },
   {
