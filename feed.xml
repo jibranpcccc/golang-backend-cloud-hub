@@ -4,10 +4,17 @@
     <title>Golang Cloud Backend Hub</title>
     <link>https://jibranpcccc.github.io/golang-backend-cloud-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:04:09 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/golang-backend-cloud-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
+      <link>https://github.com/vercel/next.js/discussions</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-github-20261013-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:04:09 GMT</pubDate>
+      <description>Newly verified community added to Golang Cloud Backend Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261011-1-2026-10-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:04:31 GMT</pubDate>
       <description>Newly verified community added to Golang Cloud Backend Hub: Service-to-service communication, distributed tracing, API gateways, and saga pattern transactions.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/softwarearchitecture High Scale (Reddit)</title>
-      <link>https://www.reddit.com/r/softwarearchitecture/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-reddit-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 08:31:56 GMT</pubDate>
-      <description>Newly verified community added to Golang Cloud Backend Hub: Architectural principles, domain-driven design (DDD), event sourcing, and high-throughput microservices.</description>
     </item>
   </channel>
 </rss>
