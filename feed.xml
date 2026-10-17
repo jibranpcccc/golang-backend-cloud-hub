@@ -4,10 +4,17 @@
     <title>Golang Cloud Backend Hub</title>
     <link>https://jibranpcccc.github.io/golang-backend-cloud-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:04:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:04:05 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/golang-backend-cloud-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261016-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:04:05 GMT</pubDate>
+      <description>Newly verified community added to Golang Cloud Backend Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261016-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-reddit-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 06:03:42 GMT</pubDate>
       <description>Newly verified community added to Golang Cloud Backend Hub: Database connection pooling, caching strategies with Redis, and RESTful API contract design.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/grpc RPC Protocols (Reddit)</title>
-      <link>https://www.reddit.com/r/grpc/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-reddit-20260914-1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 10:48:03 GMT</pubDate>
-      <description>Newly verified community added to Golang Cloud Backend Hub: High-efficiency protobuf serialization, bi-directional streaming, and inter-service latency reduction.</description>
     </item>
   </channel>
 </rss>
