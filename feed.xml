@@ -4,10 +4,17 @@
     <title>Golang Cloud Backend Hub</title>
     <link>https://jibranpcccc.github.io/golang-backend-cloud-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 06:04:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:05:36 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/golang-backend-cloud-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261016-1-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:05:36 GMT</pubDate>
+      <description>Newly verified community added to Golang Cloud Backend Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261016-1-2026-10-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-reddit-20260920-1-2026-09-20</guid>
       <pubDate>Sun, 20 Sep 2026 06:05:35 GMT</pubDate>
       <description>Newly verified community added to Golang Cloud Backend Hub: Systemd service daemons, epoll I/O multiplexing, and memory cgroups for high-performance server apps.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/sysadmin Enterprise Infrastructure (Reddit)</title>
-      <link>https://www.reddit.com/r/sysadmin/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-reddit-20260919-1-2026-09-19</guid>
-      <pubDate>Sat, 19 Sep 2026 06:03:49 GMT</pubDate>
-      <description>Newly verified community added to Golang Cloud Backend Hub: Linux kernel tuning, network routing, DNS failovers, and enterprise server monitoring.</description>
     </item>
   </channel>
 </rss>
