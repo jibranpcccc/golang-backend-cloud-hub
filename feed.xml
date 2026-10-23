@@ -4,10 +4,17 @@
     <title>Golang Cloud Backend Hub</title>
     <link>https://jibranpcccc.github.io/golang-backend-cloud-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 06:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:04:07 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/golang-backend-cloud-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                            <item>
+                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261016-1-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 06:04:07 GMT</pubDate>
+      <description>Newly verified community added to Golang Cloud Backend Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261016-1-2026-10-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-discord-20260923-1-2026-09-23</guid>
       <pubDate>Wed, 23 Sep 2026 06:03:50 GMT</pubDate>
       <description>Newly verified community added to Golang Cloud Backend Hub: Dedicated channels for Terraform, Kubernetes manifest automation, and automated GitOps deployments.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Gophers Global Discord (Discord)</title>
-      <link>https://discord.gg/gophers</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-discord-20260922-1-2026-09-22</guid>
-      <pubDate>Tue, 22 Sep 2026 06:03:48 GMT</pubDate>
-      <description>Newly verified community added to Golang Cloud Backend Hub: The largest active Discord server for Go engineers, featuring channels for generics, tooling, and concurrency.</description>
     </item>
   </channel>
 </rss>
