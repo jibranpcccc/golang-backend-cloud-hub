@@ -4,10 +4,17 @@
     <title>Golang Cloud Backend Hub</title>
     <link>https://jibranpcccc.github.io/golang-backend-cloud-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:04:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:04:06 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/golang-backend-cloud-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                <item>
+                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261016-1-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:04:06 GMT</pubDate>
+      <description>Newly verified community added to Golang Cloud Backend Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261016-1-2026-11-02</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-github-20261005-1-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 06:04:24 GMT</pubDate>
       <description>Newly verified community added to Golang Cloud Backend Hub: The official repository for the Go programming language, tracking language proposals, runtime issues, and PRs.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: CNCF Community Platform (Forum)</title>
-      <link>https://community.cncf.io</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261003-1-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 06:28:19 GMT</pubDate>
-      <description>Newly verified community added to Golang Cloud Backend Hub: Global events, project roadmaps, and technical working group discussions across cloud-native tooling.</description>
     </item>
   </channel>
 </rss>
