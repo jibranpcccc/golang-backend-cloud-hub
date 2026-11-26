@@ -4,10 +4,17 @@
     <title>Golang Cloud Backend Hub</title>
     <link>https://jibranpcccc.github.io/golang-backend-cloud-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 07:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:04:18 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/golang-backend-cloud-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: HashiCorp Discuss Community (Forum)</title>
+      <link>https://discuss.hashicorp.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-cloud-backend-hub-github-9-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:04:18 GMT</pubDate>
+      <description>Newly verified community added to Golang Cloud Backend Hub: Official GitHub discussions, SIG updates, and architecture debates for Kubernetes core and ecosystems.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
       <link>https://t.me/cloud_native_hub</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-cloud-backend-hub-telegram-8-2026-11-25</guid>
@@ -173,13 +180,6 @@
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261016-1-2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 06:04:08 GMT</pubDate>
-      <description>Newly verified community added to Golang Cloud Backend Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
-      <link>https://dev.to/t/webdev</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/golang-backend-cloud-hub/#golang-backend-cloud-hub-forum-20261016-1-2026-10-26</guid>
-      <pubDate>Mon, 26 Oct 2026 06:48:42 GMT</pubDate>
       <description>Newly verified community added to Golang Cloud Backend Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
     </item>
   </channel>
